@@ -172,7 +172,20 @@ footer {
   background-color: #3676bb;
   color: #ffffff;
   text-align: center;
-  padding-top: 50px;
+  height: 30vh;
+}
+footer .titre_footer {
+  padding-top: 40px;
+  font-size: 20px;
+  opacity: 0.4;
+}
+footer .texte_footer {
+  opacity: 0.4;
+}
+footer .img_footer {
+  align-items: center;
+  height: 10vh;
+  width: 25vw;
 }
 
 /*# sourceMappingURL=style.css.map */
